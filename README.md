@@ -1,6 +1,6 @@
-# allen
+# Voice_assistante
 
-A new Flutter project.
+voice assistante built on openAI APIs, using Flutter code.
 
 ## Getting Started
 
